@@ -1,3 +1,3 @@
-module usefull.pkg/formatPhoneNumber
+module usefull-pkg/formatPhoneNumber
 
 go 1.12
